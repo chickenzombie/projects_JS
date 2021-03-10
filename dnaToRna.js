@@ -25,4 +25,3 @@ const dnaToRna = (str) => {
 	return result;	
 }
 
-console.log(dnaToRna('ACNTG'))
